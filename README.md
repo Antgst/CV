@@ -1,6 +1,6 @@
 # CV — Antoine Gousset
 
-- 🇫🇷 CV français : [PDF](./CV-Antoine-Gousset.pdf)
+- 🇫🇷 CV français : [PDF](./CV.pdf)
 - 🇬🇧 English resume : [PDF](./Resume-Antoine-Gousset.pdf) (coming soon)
 
 ## Focus
