@@ -1,6 +1,6 @@
 # CV — Antoine Gousset
 
-- 🇫🇷 CV français : [PDF](./CV.pdf)
+- 🇫🇷 CV français : [PDF](./Antoine Gousset – 2026 – Développeur Fullstack.pdf)
 - 🇬🇧 English resume : [PDF](./Resume-Antoine-Gousset.pdf) (coming soon)
 
 ## Focus
